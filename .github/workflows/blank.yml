@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
           ifconfig
           whoami
+          wget "https://github.com/fortify/fcli/releases/download/v1.1.0/fcli-linux.tgz"
